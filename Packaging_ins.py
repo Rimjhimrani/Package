@@ -781,7 +781,7 @@ class EnhancedTemplateMapperWithImages:
                 "Seal polybag and Put polybag into a carton box",
                 "Seal carton box and put Traceability label as per PMSPL standard guideline",
                 "Prepare additional carton boxes in line with procurement schedule (multiple of pack quantity -- {Inner Qty/Pack})",
-                "Load carton boxes on base wooden pallet -- Maximum {Layer} boxes per layer & Maximum {Level} level (max height including pallet - 1000 mm)",
+                "Load carton boxes on base wooden pallet -- Maximum 20 boxes per layer & Maximum 5 level (max height including pallet - 1000 mm)",
                 "If procurement schedule is for less no. of boxes, then load similar boxes of other parts on same wooden pallet.",
                 "Put corner / edge protector and apply pet strap (2 times -- cross way)",
                 "Apply traceability label on complete pack",
